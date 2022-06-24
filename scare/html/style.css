@@ -1,0 +1,9 @@
+#rzrp-jumpscare {
+    display: none;
+    position: fixed;
+    object-fit: fill;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
